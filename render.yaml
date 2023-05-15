@@ -1,7 +1,7 @@
 databases:
-  - name: student-management-app
-    databaseName: student-management-app
-    user: student-management-app
+  - name: student_management_app
+    databaseName: student_management_app
+    user: student_management_app
 
 services:
   - type: web
